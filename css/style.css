@@ -10,12 +10,12 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url('img/fondo.jpg')  no-repeat center center;
-    background-size: cover; /* ajusta la imagen al tamaño */
-    overflow-x: hidden; /* bloquea el scroll horizontal */
+    background-image: url('img/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
     margin: 0;
     padding: 0;
-    width: 100%;
 }
 .greetings{
     font-size: 6rem;
