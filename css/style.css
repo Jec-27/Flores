@@ -10,7 +10,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: url("img/fondo.jpg") no-repeat center center;
+    background: url('../img/fondo.jpg') no-repeat center center;
     background-size: cover; /* ajusta la imagen al tamaño */
     overflow-x: hidden; /* bloquea el scroll horizontal */
     margin: 0;
