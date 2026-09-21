@@ -14,7 +14,8 @@ body {
     justify-content: center;
     background-image: url('../img/fondo1.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center bottom;
+    background-repeat: no-repeat;
     overflow-x: hidden;
     margin: 0;
     padding: 0;
